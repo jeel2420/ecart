@@ -1,1 +1,1 @@
-Simple Gui app created in Java using netbeans
+Simple Gui app created in Java using netbeans that uses jdbc 
